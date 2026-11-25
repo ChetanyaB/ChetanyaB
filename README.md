@@ -17,11 +17,10 @@
 
 ### 👋 About me
 
-I'm an **M.Tech (AI & ML) student at Symbiosis Institute of Technology, Pune** who likes taking machine-learning ideas all the way to **working, tested applications**. I've interned at **Dassault Systèmes, Yardi, DRDO and Hitachi Vantara**, building LLM pipelines, RAG systems, OCR, computer vision and classical ML.
+I'm an **M.Tech (AI & ML) student at Symbiosis Institute of Technology, Pune** who likes taking ideas all the way to **working, tested applications**. I've interned at **Dassault Systèmes, Yardi, DRDO and Hitachi Vantara**, building LLM pipelines, RAG systems, OCR, Computer Vision and Classical ML.
 
 - 🏆 **Winner, VOIS Innovation Marathon 2.0 (₹2,00,000)** for a real-time voice anti-spoofing system
-- 🌱 **Exploring:** agentic AI, Graph RAG, explainable AI and robust deepfake detection
-- 💬 **Ask me about:** LLM apps, RAG, YOLO segmentation, model evaluation, FastAPI / Streamlit deployment
+- 💬 **Ask me about:** LLM apps, RAG, model evaluation, FastAPI / Streamlit deployment
 
 ---
 
