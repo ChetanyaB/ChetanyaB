@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Chetanya%20Bhadravati&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Data%20Scientist&descAlignY=58&descSize=18" alt="Chetanya Bhadravati"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Chetanya%20Bhadravati&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist&descAlignY=58&descSize=18" alt="Chetanya Bhadravati"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=2C9AB7&center=true&vCenter=true&width=640&lines=M.Tech+AI+%26+ML+%40+Symbiosis+Institute+of+Technology;AI%2FML+Intern+%40+Dassault+Syst%C3%A8mes+%E2%80%94+Agentic+AI+%26+Graph+RAG;Computer+Vision+%E2%80%A2+NLP+%26+LLMs+%E2%80%A2+Audio+Deepfake+Detection;%F0%9F%8F%86+Winner+%E2%80%94+VOIS+Innovation+Marathon+2.0" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=2C9AB7&center=true&vCenter=true&width=640&lines=Open+to+AI+Engineer+%26+Data+Scientist+roles+%F0%9F%A4%9D;%F0%9F%8F%86+Winner%3A+VOIS+Innovation+Marathon+2.0;M.Tech+AI+%26+ML+%40+Symbiosis+Institute+of+Technology;Coffee+%E2%98%95+%2B+Python+%F0%9F%90%8D+%3D+Models+%F0%9F%A4%96;From+raw+data+%E2%86%92+deployed+AI+%F0%9F%9A%80;while%28alive%29%3A+learn%28%29+%F0%9F%94%81" alt="Typing intro"/>
 </p>
 
 ---
