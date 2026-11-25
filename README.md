@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chetanya-bhadravati-8a3703292"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bhadravatichetanya@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:chetanyabhadravati@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
@@ -19,7 +19,6 @@
 
 I'm an **M.Tech (AI & ML) student at Symbiosis Institute of Technology, Pune** who likes taking machine-learning ideas all the way to **working, tested applications**. I've interned at **Dassault Systèmes, Yardi, DRDO and Hitachi Vantara**, building LLM pipelines, RAG systems, OCR, computer vision and classical ML.
 
-- 🔭 **Currently:** building an **Agentic Digital Thread Orchestrator** for PLM with **LangGraph** and a product **knowledge graph** (Graph RAG) at Dassault Systèmes
 - 🏆 **Winner, VOIS Innovation Marathon 2.0 (₹2,00,000)** for a real-time voice anti-spoofing system
 - 🌱 **Exploring:** agentic AI, Graph RAG, explainable AI and robust deepfake detection
 - 💬 **Ask me about:** LLM apps, RAG, YOLO segmentation, model evaluation, FastAPI / Streamlit deployment
@@ -150,19 +149,17 @@ Content-based recommender over 400+ courses from Udemy, Coursera and others, usi
 
 | Role | Company | Period | Highlights |
 |---|---|---|---|
-| **AI/ML Intern** | Dassault Systèmes | Jun 2026 – Present | Agentic digital-thread orchestrator (LangGraph); product knowledge graph for traceability |
+| **AI/ML Intern** | Dassault Systèmes | Jun 2026 – Dec 2026 | Agentic digital-thread orchestrator (LangGraph); product knowledge graph for traceability |
 | **AI/ML Intern** | Yardi Software India | Feb – Jun 2025 | OCR pipeline for insurance documents; RAG over HR documents; 87%-accurate intent classifier served via FastAPI and Docker |
 | **AI/ML Research Intern** | DRDO | Oct 2024 – Jan 2025 | Hyperspectral land-cover classification; benchmarked CNNs |
 | **Data Science Intern** | Hitachi Vantara | Feb – Mar 2024 | End-to-end churn analysis; classification model at 96% accuracy |
 
 ---
 
-### 🎓 Education & certifications
+### 🎓 Education
 
-- **M.Tech, Artificial Intelligence & Machine Learning**, Symbiosis Institute of Technology, Pune (2025 – 2027) · GPA 8.12
-- **B.E., Artificial Intelligence & Data Science**, AISSMS IOIT, Pune (2021 – 2025) · CGPA 8.72
-- 📜 AWS Academy Cloud Foundations · IBM AI Fundamentals · Microsoft Power BI (Manage Workspaces & Datasets)
-- 🧑‍🏫 Training Head, Training & Placement Committee, AISSMS IOIT
+- **M.Tech, Artificial Intelligence & Machine Learning**, Symbiosis Institute of Technology, Pune (2025 – 2027)
+- **B.E., Artificial Intelligence & Data Science**, AISSMS IOIT, Pune (2021 – 2025)
 
 ---
 
