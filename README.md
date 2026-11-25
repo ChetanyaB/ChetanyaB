@@ -150,9 +150,9 @@ Content-based recommender over 400+ courses from Udemy, Coursera and others, usi
 | Role | Company | Period | Highlights |
 |---|---|---|---|
 | **AI/ML Intern** | Dassault Systèmes | Jun 2026 – Dec 2026 | Agentic digital-thread orchestrator (LangGraph); product knowledge graph for traceability |
-| **AI/ML Intern** | Yardi Software India | Feb – Jun 2025 | OCR pipeline for insurance documents; RAG over HR documents; intent classifier served via FastAPI and Docker |
+| **AI/ML Intern** | Yardi Software India | Feb 2025 – Jun 2025 | OCR pipeline for insurance documents; RAG over HR documents; intent classifier served via FastAPI and Docker |
 | **AI/ML Research Intern** | DRDO | Oct 2024 – Jan 2025 | Hyperspectral land-cover classification; benchmarked CNNs |
-| **Data Science Intern** | Hitachi Vantara | Feb – Mar 2024 | End-to-end churn analysis; classification model at 96% accuracy |
+| **Data Science Intern** | Hitachi Vantara | Feb 2024 – Mar 2024 | End-to-end churn analysis; classification model at 96% accuracy |
 
 ---
 
