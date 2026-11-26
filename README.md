@@ -145,27 +145,27 @@ Through internships at Dassault Systèmes, Yardi, DRDO and Hitachi Vantara, I ha
   <tr>
     <th width="200" align="left">Company</th>
     <th align="left">What I worked on</th>
-    <th width="160" align="center">Timeline</th>
+    <th width="190" align="center">Timeline</th>
   </tr>
   <tr>
     <td width="200" valign="top">🏢&nbsp; Dassault Systèmes<br/><sub>AI/ML Intern</sub></td>
     <td valign="top"><p align="justify">Developing an agentic digital thread orchestrator with LangGraph for product lifecycle management, and a product knowledge graph that maps part relationships and revisions for traceability.</p></td>
-    <td width="160" align="center" valign="top">Jun 2026 to Dec 2026</td>
+    <td width="190" align="center" valign="top">Jun&nbsp;2026&nbsp;to&nbsp;Dec&nbsp;2026</td>
   </tr>
   <tr>
     <td width="200" valign="top">🏢&nbsp; Yardi Software India<br/><sub>AI/ML Intern</sub></td>
     <td valign="top"><p align="justify">Built an OCR pipeline for insurance documents and deployed a RAG system for HR document retrieval. Trained an intent classifier on chatbot logs and served it through FastAPI and Docker.</p></td>
-    <td width="160" align="center" valign="top">Feb 2025 to Jun 2025</td>
+    <td width="190" align="center" valign="top">Feb&nbsp;2025&nbsp;to&nbsp;Jun&nbsp;2025</td>
   </tr>
   <tr>
     <td width="200" valign="top">🏢&nbsp; DRDO<br/><sub>AI/ML Research Intern</sub></td>
     <td valign="top"><p align="justify">Processed hyperspectral imaging data for land cover classification using feature extraction and dimensionality reduction, and benchmarked models where CNNs achieved the highest accuracy.</p></td>
-    <td width="160" align="center" valign="top">Oct 2024 to Jan 2025</td>
+    <td width="190" align="center" valign="top">Oct&nbsp;2024&nbsp;to&nbsp;Jan&nbsp;2025</td>
   </tr>
   <tr>
     <td width="200" valign="top">🏢&nbsp; Hitachi Vantara<br/><sub>Data Science Intern</sub></td>
     <td valign="top"><p align="justify">Led a customer churn analysis covering data cleaning, feature selection and exploratory analysis, then trained and tuned a classification model that reached 96% accuracy.</p></td>
-    <td width="160" align="center" valign="top">Feb 2024 to Mar 2024</td>
+    <td width="190" align="center" valign="top">Feb&nbsp;2024&nbsp;to&nbsp;Mar&nbsp;2024</td>
   </tr>
 </table>
 
@@ -177,17 +177,17 @@ Through internships at Dassault Systèmes, Yardi, DRDO and Hitachi Vantara, I ha
   <tr>
     <th width="200" align="left">Degree</th>
     <th align="left">Programme</th>
-    <th width="160" align="center">Years</th>
+    <th width="190" align="center">Years</th>
   </tr>
   <tr>
     <td width="200" valign="top">🎓&nbsp; M.Tech<br/><sub>Postgraduate</sub></td>
     <td valign="top"><p align="justify">Master of Technology in Artificial Intelligence and Machine Learning at Symbiosis Institute of Technology, Pune.</p></td>
-    <td width="160" align="center" valign="top">2025 to 2027<br/><sub>Pursuing</sub></td>
+    <td width="190" align="center" valign="top">2025&nbsp;to&nbsp;2027<br/><sub>Pursuing</sub></td>
   </tr>
   <tr>
     <td width="200" valign="top">🎓&nbsp; B.E.<br/><sub>Undergraduate</sub></td>
     <td valign="top"><p align="justify">Bachelor of Engineering in Artificial Intelligence and Data Science at AISSMS Institute of Information Technology, Pune.</p></td>
-    <td width="160" align="center" valign="top">2021 to 2025<br/><sub>Completed</sub></td>
+    <td width="190" align="center" valign="top">2021&nbsp;to&nbsp;2025<br/><sub>Completed</sub></td>
   </tr>
 </table>
 
