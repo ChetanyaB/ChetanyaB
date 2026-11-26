@@ -145,27 +145,27 @@ Through internships at Dassault Systèmes, Yardi, DRDO and Hitachi Vantara, I ha
   <tr>
     <th width="200" align="left">Company</th>
     <th align="left">What I worked on</th>
-    <th width="160" align="center">Duration</th>
+    <th width="160" align="center">Timeline</th>
   </tr>
   <tr>
     <td width="200" valign="top">🏢&nbsp; Dassault Systèmes<br/><sub>AI/ML Intern</sub></td>
     <td valign="top"><p align="justify">Developing an agentic digital thread orchestrator with LangGraph for product lifecycle management, and a product knowledge graph that maps part relationships and revisions for traceability.</p></td>
-    <td width="160" align="center" valign="top">Jun 2026 to Dec 2026<br/><sub>7 months</sub></td>
+    <td width="160" align="center" valign="top">Jun 2026 to Dec 2026</td>
   </tr>
   <tr>
     <td width="200" valign="top">🏢&nbsp; Yardi Software India<br/><sub>AI/ML Intern</sub></td>
     <td valign="top"><p align="justify">Built an OCR pipeline for insurance documents and deployed a RAG system for HR document retrieval. Trained an intent classifier on chatbot logs and served it through FastAPI and Docker.</p></td>
-    <td width="160" align="center" valign="top">Feb 2025 to Jun 2025<br/><sub>5 months</sub></td>
+    <td width="160" align="center" valign="top">Feb 2025 to Jun 2025</td>
   </tr>
   <tr>
     <td width="200" valign="top">🏢&nbsp; DRDO<br/><sub>AI/ML Research Intern</sub></td>
     <td valign="top"><p align="justify">Processed hyperspectral imaging data for land cover classification using feature extraction and dimensionality reduction, and benchmarked models where CNNs achieved the highest accuracy.</p></td>
-    <td width="160" align="center" valign="top">Oct 2024 to Jan 2025<br/><sub>4 months</sub></td>
+    <td width="160" align="center" valign="top">Oct 2024 to Jan 2025</td>
   </tr>
   <tr>
     <td width="200" valign="top">🏢&nbsp; Hitachi Vantara<br/><sub>Data Science Intern</sub></td>
     <td valign="top"><p align="justify">Led a customer churn analysis covering data cleaning, feature selection and exploratory analysis, then trained and tuned a classification model that reached 96% accuracy.</p></td>
-    <td width="160" align="center" valign="top">Feb 2024 to Mar 2024<br/><sub>2 months</sub></td>
+    <td width="160" align="center" valign="top">Feb 2024 to Mar 2024</td>
   </tr>
 </table>
 
