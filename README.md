@@ -27,7 +27,7 @@ Through internships at Dassault Systèmes, Yardi, DRDO and Hitachi Vantara, I ha
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">🎯<br/>Focus<br/><sub>LLMs, RAG, computer vision and applied ML</sub></td>
+    <td align="center" width="33%">🎯<br/>Focus<br/><sub>Production-ready AI: agentic systems, RAG pipelines and computer vision</sub></td>
     <td align="center" width="33%">🏆<br/>Hackathon winner<br/><sub>VOIS Innovation Marathon 2.0, ₹2,00,000 prize</sub></td>
     <td align="center" width="33%">📍<br/>Pune, India<br/><sub>Open to relocation</sub></td>
   </tr>
@@ -143,20 +143,29 @@ Through internships at Dassault Systèmes, Yardi, DRDO and Hitachi Vantara, I ha
 
 <table>
   <tr>
-    <td width="200" valign="top">🏢&nbsp; Dassault Systèmes<br/><sub>AI/ML Intern</sub><br/><sub>Jun 2026 to Dec 2026</sub></td>
+    <th width="200" align="left">Company</th>
+    <th align="left">What I worked on</th>
+    <th width="160" align="center">Timeline</th>
+  </tr>
+  <tr>
+    <td width="200" valign="top">🏢&nbsp; Dassault Systèmes<br/><sub>AI/ML Intern</sub></td>
     <td valign="top"><p align="justify">Developing an agentic digital thread orchestrator with LangGraph for product lifecycle management, and a product knowledge graph that maps part relationships and revisions for traceability.</p></td>
+    <td width="160" align="center" valign="top">Jun 2026 to Dec 2026</td>
   </tr>
   <tr>
-    <td width="200" valign="top">🏢&nbsp; Yardi Software India<br/><sub>AI/ML Intern</sub><br/><sub>Feb 2025 to Jun 2025</sub></td>
+    <td width="200" valign="top">🏢&nbsp; Yardi Software India<br/><sub>AI/ML Intern</sub></td>
     <td valign="top"><p align="justify">Built an OCR pipeline for insurance documents and deployed a RAG system for HR document retrieval. Trained an intent classifier on chatbot logs and served it through FastAPI and Docker.</p></td>
+    <td width="160" align="center" valign="top">Feb 2025 to Jun 2025</td>
   </tr>
   <tr>
-    <td width="200" valign="top">🏢&nbsp; DRDO<br/><sub>AI/ML Research Intern</sub><br/><sub>Oct 2024 to Jan 2025</sub></td>
+    <td width="200" valign="top">🏢&nbsp; DRDO<br/><sub>AI/ML Research Intern</sub></td>
     <td valign="top"><p align="justify">Processed hyperspectral imaging data for land cover classification using feature extraction and dimensionality reduction, and benchmarked models where CNNs achieved the highest accuracy.</p></td>
+    <td width="160" align="center" valign="top">Oct 2024 to Jan 2025</td>
   </tr>
   <tr>
-    <td width="200" valign="top">🏢&nbsp; Hitachi Vantara<br/><sub>Data Science Intern</sub><br/><sub>Feb 2024 to Mar 2024</sub></td>
+    <td width="200" valign="top">🏢&nbsp; Hitachi Vantara<br/><sub>Data Science Intern</sub></td>
     <td valign="top"><p align="justify">Led a customer churn analysis covering data cleaning, feature selection and exploratory analysis, then trained and tuned a classification model that reached 96% accuracy.</p></td>
+    <td width="160" align="center" valign="top">Feb 2024 to Mar 2024</td>
   </tr>
 </table>
 
@@ -166,12 +175,19 @@ Through internships at Dassault Systèmes, Yardi, DRDO and Hitachi Vantara, I ha
 
 <table>
   <tr>
-    <td width="200" valign="top">🎓&nbsp; 2025 to 2027</td>
-    <td>M.Tech, Artificial Intelligence & Machine Learning<br/><sub>Symbiosis Institute of Technology, Pune</sub></td>
+    <th width="200" align="left">Degree</th>
+    <th align="left">Programme</th>
+    <th width="160" align="center">Years</th>
   </tr>
   <tr>
-    <td width="200" valign="top">🎓&nbsp; 2021 to 2025</td>
-    <td>B.E., Artificial Intelligence & Data Science<br/><sub>AISSMS Institute of Information Technology, Pune</sub></td>
+    <td width="200" valign="top">🎓&nbsp; M.Tech<br/><sub>Postgraduate</sub></td>
+    <td valign="top"><p align="justify">Master of Technology in Artificial Intelligence and Machine Learning at Symbiosis Institute of Technology, Pune.</p></td>
+    <td width="160" align="center" valign="top">2025 to 2027<br/><sub>Pursuing</sub></td>
+  </tr>
+  <tr>
+    <td width="200" valign="top">🎓&nbsp; B.E.<br/><sub>Undergraduate</sub></td>
+    <td valign="top"><p align="justify">Bachelor of Engineering in Artificial Intelligence and Data Science at AISSMS Institute of Information Technology, Pune.</p></td>
+    <td width="160" align="center" valign="top">2021 to 2025<br/><sub>Completed</sub></td>
   </tr>
 </table>
 
