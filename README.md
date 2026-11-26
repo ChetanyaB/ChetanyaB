@@ -27,7 +27,7 @@ Through internships at Dassault Systèmes, Yardi, DRDO and Hitachi Vantara, I ha
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">🎯<br/>Focus<br/><sub>Production-ready AI: agentic systems, RAG pipelines and computer vision</sub></td>
+    <td align="center" width="33%">🎯<br/>Focus<br/><sub>Production-ready AI: agentic systems, RAG pipelines and NLP</sub></td>
     <td align="center" width="33%">🏆<br/>Hackathon winner<br/><sub>VOIS Innovation Marathon 2.0, ₹2,00,000 prize</sub></td>
     <td align="center" width="33%">📍<br/>Pune, India<br/><sub>Open to relocation</sub></td>
   </tr>
